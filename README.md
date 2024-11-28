@@ -23,7 +23,7 @@
 
 - 📞 My phone number: **+201020797855**
 
-- 📄 Know about my experiences <a href="https://github.com/youssefy0sser/resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/youssefy0sser/resume.pdf-/blob/main/Youssef-Abdelmwla.pdf" target="blank">Resume</a>
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
