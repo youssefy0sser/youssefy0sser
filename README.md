@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://media.tenor.com/vwJRrdKQ2esAAAAC/hello-hi.gif" alt="Hello" width="300" height="100">
+</h1>
+
+
 <h1 align="center">Hi 👋, I'm <a href="https://your-website-link.com" target="blank">Youssef Yasser</a></h1>
 <h3 align="center">A passionate Software Developer (Front-End) from Cairo, Egypt 🇪🇬</h3>
 
